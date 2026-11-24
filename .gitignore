@@ -1,0 +1,15 @@
+# Sistem Operasi (Mac & Windows)
+.DS_Store
+Thumbs.db
+
+# Environment & Kredensial Rahasia
+.env
+*.env
+
+# Folder IDE / Editor
+.vscode/
+.idea/
+
+# File Backup / Log
+*.log
+*.bak
